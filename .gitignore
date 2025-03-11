@@ -40,12 +40,6 @@ venv.bak/
 *.swo
 .DS_Store
 
-# Data files
-*.csv
-*.xlsx
-*.xls
-*.db
-*.sqlite3
 
 # Log files
 *.log
